@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 })
 
 // @PUT to update existing data
-app.get('/', (req, res) => {
+app.put('/', (req, res) => {
     // to be implemented
 })
 
